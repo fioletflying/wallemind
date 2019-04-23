@@ -1,0 +1,14 @@
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\bin\Debug\01_findResouce.exe.config
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\bin\Debug\01_findResouce.exe
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\bin\Debug\01_findResouce.pdb
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\01_findResouce.csprojResolveAssemblyReference.cache
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\MainWindow.g.cs
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\App.g.cs
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\01_findResouce_MarkupCompile.cache
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\01_findResouce_MarkupCompile.lref
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\MainWindow.baml
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\01_findResouce.g.resources
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\_01_findResouce.Properties.Resources.resources
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\01_findResouce.csproj.GenerateResource.Cache
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\01_findResouce.exe
+F:\Study\Wpfcook\10Resource\01_findResouce\01_findResouce\obj\Debug\01_findResouce.pdb
